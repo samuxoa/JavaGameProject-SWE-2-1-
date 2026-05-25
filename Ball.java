@@ -6,7 +6,7 @@ public class Ball {
 
     int size = 20;// diameter of ball
 
-    public void move() {
+   private public void move() {
         x += xDir;
         y += yDir; // atate move krbe location change hbe
     }

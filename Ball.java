@@ -1,5 +1,5 @@
 public class Ball {
-    int x = 120;
+   private int x = 120;
     int y = 350;
     int xDir = -1;// left side
     int yDir = -2; // up side
